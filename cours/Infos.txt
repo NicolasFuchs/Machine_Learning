@@ -1,0 +1,12 @@
+Cyberlean:
+=========
+ID: 5754
+Pass: Turingtest18
+
+Soft:
+-----
+
+KNIME
+Scikit-learn + Jupiter
+
+

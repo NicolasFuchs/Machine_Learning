@@ -1,0 +1,7 @@
+-	Faire un tuto Python
+
+
+
+-	Application détection cas accidents via vidéo: Indiquer des gestes spécifiques pour appeler a l'aide via une web cam monitorée par du machine 	learning.
+
+
